@@ -15,7 +15,7 @@ Apasionado y con vocación por el Testing. Bueno en tareas de trabajo en equipo 
 * Testlink
 * Jira
 * MantisBT
-*SQL Server
+* SQL Server
 
 ## Mi trabajo
 
