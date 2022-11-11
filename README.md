@@ -1,6 +1,6 @@
 # Portfolio
 ## Sobre mí
-Apasionado y con vocación por el Testing. Bueno en tareas de trabajo en equipo y liderando grupos, además de organización y gran GRIT dentro del rubro IT.
+Mi nombre es Miguel Marques, tengo 24 años, soy apasionado y con vocación por el Testing, bueno en tareas de trabajo en equipo y liderando grupos, además de organizado y poseo gran GRIT y motivación dentro del rubro IT.
 
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):**
